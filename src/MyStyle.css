@@ -1,0 +1,47 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+form label {
+    width: 20%;
+    padding: 10px;
+}
+
+form input {
+    width: 60%;
+    padding: 10px;
+}
+
+.content--input {
+    height: 70px;
+}
+ul {
+    list-style-type: none;
+}
+
+.post--item {
+    padding: 50px;
+    background-color: grey;
+    border-radius: 20px;
+}
+
+.submit--button {
+    margin: 20px;
+    padding: 10px;
+    color: blue;
+}
+
+
+
+
+
+
+.like {
+    background-color: green;
+}
+
+.dislike {
+
+background-color: red;
+}
