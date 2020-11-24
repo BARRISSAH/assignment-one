@@ -21,7 +21,6 @@ function App() {
 
       <main>
         <Router>
-          <h1></h1>
           <Navbar/>
            <Switch>
             <Route path="/HomePage" component={HomePage} exact />
